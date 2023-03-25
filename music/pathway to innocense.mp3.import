@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://brfe1k1jw0ky3"
+path="res://.godot/imported/pathway to innocense.mp3-ccb2ab4f7db31bc4dc8b1b2d6660edb1.mp3str"
+
+[deps]
+
+source_file="res://music/pathway to innocense.mp3"
+dest_files=["res://.godot/imported/pathway to innocense.mp3-ccb2ab4f7db31bc4dc8b1b2d6660edb1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
